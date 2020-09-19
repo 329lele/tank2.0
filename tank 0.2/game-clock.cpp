@@ -3,7 +3,7 @@
 TimeClock mainTimer; // 用于主窗口程序的界面定时绘制
 
 /**
-	初始化时间值
+	初始化时间值kk
 */
 void clock_init(TimeClock* clock_struct, double t) {
 	QueryPerformanceCounter(&clock_struct->clock_obj); // 获取当前系统的滴答值
