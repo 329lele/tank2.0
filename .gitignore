@@ -1,0 +1,8 @@
+
+*.idb
+*.pdb
+*.tlog
+*.log
+*.obj
+*.sdf
+*.opensdf
